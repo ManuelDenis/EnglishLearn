@@ -1,4 +1,4 @@
-import {Col, Row} from "react-bootstrap";
+import {Row} from "react-bootstrap";
 import Container from "react-bootstrap/Container";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Homepage from "./Components/Homepage";
