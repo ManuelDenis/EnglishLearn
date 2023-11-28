@@ -1,17 +1,38 @@
-h1, h2, h3, h4, h5, h6, p {
-    font-family: Kanit, sans-serif;
-    color: #cdc4d3;
+.App {
+  text-align: center;
 }
-.altele {
-    color: #0dcaf0;
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
 }
-.text-ro {
-  list-style-type: none;
-  cursor: pointer;
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
 }
-.ro {
-    color: rgba(221, 225, 161, 0.98);
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
-.en {
-    color: #cdfff9;
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
