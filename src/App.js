@@ -4,7 +4,7 @@ import { HashRouter, Routes, Route, Link } from "react-router-dom";
 class App extends Component {
   render() {
     return (
-      <HashRouter basename="/">
+      <HashRouter basename="">
         <div>
           <ul>
             <li><Link to="/">Home</Link></li>
