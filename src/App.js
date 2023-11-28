@@ -24,7 +24,7 @@ function App() {
   return (
         <Container>
             <Row className='p-2'>
-                <h1 className='p-5 text-secondary'>English learn</h1>
+                <h1 className='p-5 text-light'>English learn</h1>
                 <ul>
                     {shuffledExpressions.map((element, index) => (
                         <li className='mt-5 mb-5 text-ro' key={index} onClick={() => handleExpressionClick(index)}>
