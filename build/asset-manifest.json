@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ManuelDenis/EnglishLearn.git/static/css/main.f87c894e.css",
+    "main.js": "/ManuelDenis/EnglishLearn.git/static/js/main.25482f23.js",
+    "static/js/787.b02dcc9d.chunk.js": "/ManuelDenis/EnglishLearn.git/static/js/787.b02dcc9d.chunk.js",
+    "index.html": "/ManuelDenis/EnglishLearn.git/index.html",
+    "main.f87c894e.css.map": "/ManuelDenis/EnglishLearn.git/static/css/main.f87c894e.css.map",
+    "main.25482f23.js.map": "/ManuelDenis/EnglishLearn.git/static/js/main.25482f23.js.map",
+    "787.b02dcc9d.chunk.js.map": "/ManuelDenis/EnglishLearn.git/static/js/787.b02dcc9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87c894e.css",
+    "static/js/main.25482f23.js"
+  ]
+}
